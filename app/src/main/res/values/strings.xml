@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserCatalog</string>
+    <string name="name_et_hind">Введите имя</string>
+    <string name="age_et_sting">Введите возраст</string>
+    <string name="save_btn_sting">Сохранить</string>
+    <string name="title_toolbar">Каталог пользователей</string>
+    <string name="menu_item_exit">Выход</string>
+</resources>
